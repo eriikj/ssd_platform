@@ -1,0 +1,241 @@
+Cmp-Mod V01 Created by Cvpcb (2014-jan-25)-product   date = lör  3 maj 2014 17:55:15
+
+BeginCmp
+TimeStamp = /53640FAE;
+Reference = C1;
+ValeurCmp = 470u;
+IdModule  = Capacitors:CP_8x13mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /5364114C;
+Reference = C2;
+ValeurCmp = 4u7;
+IdModule  = SMD_Packages:SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53642309;
+Reference = C3;
+ValeurCmp = 100n;
+IdModule  = SMD_Packages:SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53651721;
+Reference = C4;
+ValeurCmp = 100n;
+IdModule  = SMD_Packages:SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5364CC87;
+Reference = C5;
+ValeurCmp = 4u7;
+IdModule  = SMD_Packages:SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53640750;
+Reference = D1;
+ValeurCmp = DIODESCH;
+IdModule  = Diodes_SMD:Diode-SMA_Handsoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /536407C3;
+Reference = D2;
+ValeurCmp = DIODESCH;
+IdModule  = Diodes_SMD:Diode-SMA_Handsoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /536407E0;
+Reference = D3;
+ValeurCmp = DIODESCH;
+IdModule  = Diodes_SMD:Diode-SMA_Handsoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /536407FD;
+Reference = D4;
+ValeurCmp = DIODESCH;
+IdModule  = Diodes_SMD:Diode-SMA_Handsoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /5365169F;
+Reference = D5;
+ValeurCmp = LED;
+IdModule  = LEDs:LED-3MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /53650E43;
+Reference = P1;
+ValeurCmp = DPR;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x04;
+EndCmp
+
+BeginCmp
+TimeStamp = /536530FA;
+Reference = P2;
+ValeurCmp = HL;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x02;
+EndCmp
+
+BeginCmp
+TimeStamp = /536535F0;
+Reference = P3;
+ValeurCmp = BL;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x02;
+EndCmp
+
+BeginCmp
+TimeStamp = /5364FFE9;
+Reference = P4;
+ValeurCmp = SERIAL;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x04;
+EndCmp
+
+BeginCmp
+TimeStamp = /5364F366;
+Reference = P5;
+ValeurCmp = I2C;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x04;
+EndCmp
+
+BeginCmp
+TimeStamp = /5364DC08;
+Reference = P6;
+ValeurCmp = ICSP;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x05;
+EndCmp
+
+BeginCmp
+TimeStamp = /536501DC;
+Reference = Q1;
+ValeurCmp = Biased_NPN;
+IdModule  = SMD_Packages:SOT23;
+EndCmp
+
+BeginCmp
+TimeStamp = /53650175;
+Reference = Q2;
+ValeurCmp = Biased_NPN;
+IdModule  = SMD_Packages:SOT23;
+EndCmp
+
+BeginCmp
+TimeStamp = /5364EC6C;
+Reference = Q3;
+ValeurCmp = Dual_NP_MOSFET;
+IdModule  = SMD_Packages:SO8E;
+EndCmp
+
+BeginCmp
+TimeStamp = /5364336D;
+Reference = R1;
+ValeurCmp = 2k2;
+IdModule  = SMD_Packages:SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53645232;
+Reference = R3;
+ValeurCmp = 150;
+IdModule  = SMD_Packages:SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5364525A;
+Reference = R4;
+ValeurCmp = 150;
+IdModule  = SMD_Packages:SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5364527F;
+Reference = R5;
+ValeurCmp = 150;
+IdModule  = SMD_Packages:SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5365083C;
+Reference = R6;
+ValeurCmp = 750;
+IdModule  = SMD_Packages:SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53650789;
+Reference = R7;
+ValeurCmp = 240;
+IdModule  = SMD_Packages:SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53644751;
+Reference = R8;
+ValeurCmp = 33k;
+IdModule  = SMD_Packages:SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /536447F5;
+Reference = R9;
+ValeurCmp = 33k;
+IdModule  = SMD_Packages:SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53651529;
+Reference = R10;
+ValeurCmp = 2k2;
+IdModule  = SMD_Packages:SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53650D1A;
+Reference = R11;
+ValeurCmp = 2k2;
+IdModule  = SMD_Packages:SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5364CA51;
+Reference = R12;
+ValeurCmp = 390;
+IdModule  = SMD_Packages:SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5364CC0A;
+Reference = R13;
+ValeurCmp = 240;
+IdModule  = SMD_Packages:SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53641DB8;
+Reference = U1;
+ValeurCmp = PIC18F13K22;
+IdModule  = SMD_Packages:SSOP20;
+EndCmp
+
+BeginCmp
+TimeStamp = /5365012B;
+Reference = U2;
+ValeurCmp = LM317_SOT223;
+IdModule  = SMD_Packages:SO8E;
+EndCmp
+
+BeginCmp
+TimeStamp = /5364C9AD;
+Reference = U3;
+ValeurCmp = LM317_SOT223;
+IdModule  = SMD_Packages:SO8E;
+EndCmp
+
+EndListe
